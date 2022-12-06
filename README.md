@@ -7,6 +7,7 @@ https://github.com/Duyguval/kodluyoruzilkrepo.git
 
 ### Kodluyoruz Örnek Eğitim Görseli ###
 
+
 ![kodluyoruz img](https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/vs-code-icinde-terminal-kullanarak-git-temel-komutlari/figures/1-new-terminal-2.png)
 
 
